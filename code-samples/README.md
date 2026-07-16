@@ -1,6 +1,6 @@
 # Code Samples
 
-Sanitized architectural patterns from Proof CRM. These show the *how* without exposing any business logic.
+Sanitized architectural patterns from Prism CRM. These show the *how* without exposing any business logic.
 
 ## Files
 

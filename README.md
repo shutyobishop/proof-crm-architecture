@@ -1,4 +1,4 @@
-# Proof CRM — Architecture & Design Patterns
+# Prism CRM — Architecture & Design Patterns
 
 > **A production CRM built with FastAPI, Domain-Driven Design, and Supabase.**  
 > This repo shows the architectural decisions, not the business logic.
@@ -404,8 +404,8 @@ Backup:       Daily pg_dump at 03:00 UTC, 7-day rolling
 
 ```bash
 # Clone this repo
-git clone git@github.com:shutyobishop/proof-crm-architecture.git
-cd proof-crm-architecture
+git clone git@github.com:shutyobishop/prism-crm-architecture.git
+cd prism-crm-architecture
 
 # Install deps
 python3 -m venv venv
@@ -417,13 +417,13 @@ python3 -m pytest code-samples/
 ```
 
 > ℹ️ This repo contains **architectural patterns only** — no business logic, no secrets, no proprietary code.  
-> The actual CRM is private at `github.com/shutyobishop/Proof-CRM`.
+> The actual CRM is private at `github.com/shutyobishop/Prism-CRM`.
 
 ---
 
 ## Health Score
 
-Proof CRM has undergone 20+ DEFCON-level hardening operations that moved it from ~50/100 to ~99/100:
+Prism CRM has undergone 20+ DEFCON-level hardening operations that moved it from ~50/100 to ~99/100:
 
 | Domain | Start | Current | Δ |
 |--------|-------|---------|---|

@@ -1,4 +1,4 @@
-Proof CRM — Architecture Overview
+Prism CRM — Architecture Overview
 ====================================
 
 ┌──────────────────────────────────────────────────────────────────────────┐
